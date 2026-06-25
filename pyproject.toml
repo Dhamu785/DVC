@@ -8,4 +8,5 @@ dependencies = [
     "dvc[s3]>=3.67.1",
     "numpy>=2.4.6",
     "pandas>=3.0.3",
+    "webdataset>=1.0.2",
 ]
